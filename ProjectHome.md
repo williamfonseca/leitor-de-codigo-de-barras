@@ -1,0 +1,1 @@
+Projeto de teste para a disciplina de Dispositivos Moveis do 5°ciclo de sistemas para internet. Desenvolvemos um aplicativo Android que lê códigos de barras. O aplicativo já possui os produtos cadastrados e os códigos de barras estão nas imagens que estão na pasta drawable.
